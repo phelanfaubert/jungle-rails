@@ -26,4 +26,3 @@ RSpec.feature "ProductDetails", type: :feature, js: true do
 
     end
 
-end
